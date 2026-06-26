@@ -47,4 +47,6 @@ Scripts in this directory increase in difficulty as new concepts are learned.
 - `classes.py`
 - `exceptions.py`
 
-## This section will continue to grow as I develop new projects and strengthen my Python skills.
+---
+
+> This section will continue to grow as I develop new projects and strengthen my Python skills.
