@@ -30,16 +30,21 @@ Develop a strong understanding of core Python concepts before applying them to c
 
 Scripts in this directory increase in difficulty as new concepts are learned.
 
-## Future scripts ideas:
-hello_world.py
-variables.py
-strings.py
-numbers.py
-lists.py
-dictionaries.py
-if_statements.py
-loops.py
-functions.py
-modules.py
-classes.py
-exceptions.py
+---
+
+## Suggested Scripts
+
+- `hello_world.py`
+- `variables.py`
+- `strings.py`
+- `numbers.py`
+- `lists.py`
+- `dictionaries.py`
+- `if_statements.py`
+- `loops.py`
+- `functions.py`
+- `modules.py`
+- `classes.py`
+- `exceptions.py`
+
+## This section will continue to grow as I develop new projects and strengthen my Python skills.
