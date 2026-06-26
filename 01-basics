@@ -1,0 +1,31 @@
+# 01 Basics
+
+This section covers the Python fundamentals that form the foundation for every project in this repository.
+
+Although these examples are relatively simple, they introduce concepts that will be used repeatedly throughout later networking, automation and cybersecurity projects.
+
+---
+
+## Topics
+
+Examples may include:
+
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Modules
+- Classes
+- Exception Handling
+
+---
+
+## Goal
+
+Develop a strong understanding of core Python concepts before applying them to cybersecurity and automation.
+
+---
+
+Scripts in this directory increase in difficulty as new concepts are learned.
